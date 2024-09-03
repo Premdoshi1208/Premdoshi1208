@@ -4,7 +4,7 @@
 <h3 align="center">A passionate DATA SCIENTIST 💻 </h3>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Premdoshi1208&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
@@ -14,7 +14,7 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paarthsoni)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Premdoshi1208)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 My Projects
